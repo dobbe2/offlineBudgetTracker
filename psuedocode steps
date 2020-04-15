@@ -1,0 +1,17 @@
+1. installed app and dependencies
+2. ran lighthouse audit
+    -removed bootstrap CDN, since there is sufficient CSS in public folder
+3.Minified JS files
+    -created dist folder in root in public
+    - created new index.js file in dist 
+    - pasted minified JS 
+    -linked dist/index.js in index.html
+4. Compression has already been set up and middlewware is running
+5. There is no images on the site to Compress or Lazy Load, only Icons in assets.
+6. Created a manifest.webmanifest file inside Public folder 
+    -created manifest with name, short name, icon sizes and links, and other options    
+    COULD STILL CUSTOMIZE SPLASH COLOR ECT...
+7. Setting up service worker
+    -created service-worker.js file, and wrote script for it in index.html
+8.IN PROGRESS setting up Offline Experience
+
