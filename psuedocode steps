@@ -13,5 +13,11 @@
     COULD STILL CUSTOMIZE SPLASH COLOR ECT...
 7. Setting up service worker
     -created service-worker.js file, and wrote script for it in index.html
-8.IN PROGRESS setting up Offline Experience
+8.Setting up Offline Experience
+    -set up cached files
+    -set up install, activate, and fetch for cached
+9.Set up Database
+    -create db.js
+    -set up indexDB
+
 
