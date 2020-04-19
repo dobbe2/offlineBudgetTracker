@@ -19,3 +19,5 @@ Repo: https://https://github.com/dobbe2/offlineBudgetTracker
 ## Deployed App
 App: https://offlinenuggettracker.herokuapp.com/
 
+## View of App:
+![budgetTrackerApp](/public/icons/app.png)
